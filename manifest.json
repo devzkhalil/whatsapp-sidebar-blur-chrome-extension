@@ -1,0 +1,26 @@
+{
+    "name": "WhatsApp Sidebar Blur",
+    "description": "Minimize distractions and safeguard your privacy with WhatsApp Sidebar Blur. This clever feature blurs chat previews, keeping your focus on the current conversation and hiding sensitive info from view in public settings. Enjoy a calmer, more private WhatsApp experience.",
+    "version": "1.0",
+    "manifest_version": 2,
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "permissions": [
+        "tabs",
+        "https://web.whatsapp.com/"
+    ],
+    "browser_action": {
+        "default_icon": {
+            "16": "icons/icon16.png",
+            "48": "icons/icon48.png",
+            "128": "icons/icon128.png"
+        }
+    }
+}
