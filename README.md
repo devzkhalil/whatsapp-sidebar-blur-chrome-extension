@@ -27,7 +27,7 @@ so I don't want any personal information to be visible during productive meeting
 But you will use it by follow this step
 
 Step 1 - Please retrieve this file by downloading the zip archive and then proceed to extract it onto your device.
-![Demo](./doc/demo.png)
+![Demo](./doc/pv1.png)
 
 Step 2 - Access your list of Chrome extensions and proceed to upload the extracted folder.
 ![Demo](./doc/image-1.png)
